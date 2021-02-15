@@ -889,10 +889,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/chrome@^0.0.123":
-  version "0.0.123"
-  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.123.tgz#3bd094ae3b3920e8210ca63e6b5927358fafc1a5"
-  integrity sha512-fG6GPreuSY+Z+0e3dtBz5MJ5qyZ2feOZISG8udxBiuwUYqykK1q4NxkjfzL2F5I05LqK2ojP7ZR08Gcfo3ubHQ==
+"@types/chrome@^0.0.130":
+  version "0.0.130"
+  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.130.tgz#cde0934f673474794c01209bde84a4fc69987b23"
+  integrity sha512-pAHbcPeOmjNCF5EoUCAZk3+5lll1yyIDP+CZRNf1Dk8LaANkNBNZ5szHqeYYVjMyEGP6yIFeaO+Y7qNpz1hVOw==
   dependencies:
     "@types/filesystem" "*"
     "@types/har-format" "*"
