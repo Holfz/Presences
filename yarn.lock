@@ -959,10 +959,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/chrome@^0.0.134":
-  version "0.0.134"
-  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.134.tgz#79aa318d3491f4c5627c5bab60179eaa713c16eb"
-  integrity sha512-NlYHk+a0Bq6kTvGT4s2w1G3UuDBeoZJYJL1wzmEIusBKYyDDtdl37kOz3Hzb/NEC2KNdnOBVoYLS2opQYsF1Vw==
+"@types/chrome@^0.0.198":
+  version "0.0.198"
+  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.198.tgz#24406c1ea4bf15b71cffc09addb69adc9451b0ac"
+  integrity sha512-zLn6JZXwSOOY0pw+dkIxItxvjsQThDkqaFnsnmr412Wa0MqesymfdTQ/0d30J/0wiFp3TYw0i63hzGGy0W7Paw==
   dependencies:
     "@types/filesystem" "*"
     "@types/har-format" "*"
